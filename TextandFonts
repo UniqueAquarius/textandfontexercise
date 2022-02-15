@@ -1,0 +1,46 @@
+/* Must import font (Press Start 2P) at the start of the CSS file */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+p {
+  font-family: 'Press Start 2P', cursive;
+}
+
+h1 {
+  /* Google Fonts provides this for us (Copied and pasted from fonts.google.com) */
+  font-family: 'Roboto', sans-serif;
+  /* font-style: italic; */
+  font-weight: 400;
+  font-weight: 700;
+  /* If you want to have text that is bold and italic you must select that specific font */
+}
+<!DOCTYPE css>
+<css lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Google Fonts in CSS">
+  <!-- Links to selected Google Font(s) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="googleFonts.css">
+  <title>Google Fonts</title>
+</head>
+
+<body>
+  <h1>Google Fonts Are The Best!!!</h1>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+CSS rules to specify families
+
+font-family: 'Roboto', sans-serif;
+<font-weight:500;
+  <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id error a quisquam doloremque impedit vitae consectetur
+    eveniet atque fugit veniam eligendi autem tenetur mollitia ducimus hic laborum, ad quia eos.</p>
+</body>
+
+</html>
